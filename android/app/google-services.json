@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181990950512",
+    "project_id": "campusbite-ac349",
+    "storage_bucket": "campusbite-ac349.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181990950512:android:974d4ea33d5b6e11bf96b5",
+        "android_client_info": {
+          "package_name": "com.example.campus_food_ordering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0eQk3NlZ2cpHF9uc0oJaLFbyrTOBTUDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
